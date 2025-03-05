@@ -1,5 +1,5 @@
 Oi, sou @anaxcarlla
-👀 Estou interessada em desenvolvimento de software e banco de dados, além de aprender novas tecnologias que me ajudem a crescer na área de TI.
+👀 Estou interessada em desenvolvimento de software e banco de dados, além de aprender novas tecnologias que me ajudem a crescer na área da tecnologia.
 🌱 Atualmente estou aprendendo mais sobre análise e desenvolvimento de sistemas, com foco em linguagens de programação como Python e Java, além de técnicas de gerenciamento de bancos de dados.
 💞️ Estou procurando colaborar em projetos que envolvam desenvolvimento de sistemas, banco de dados e inovação tecnológica.
 📫 Como me encontrar: você pode me contatar pelo LinkedIn ou por e-mail.
